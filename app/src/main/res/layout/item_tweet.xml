@@ -37,4 +37,13 @@
         android:layout_toEndOf="@+id/ivProfileImage"
         android:text="TextView"
         tools:text="This is my first tweet !" />
+
+    <TextView
+        android:id="@+id/tvTimestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        tools:text="2 min" />
 </RelativeLayout>
