@@ -35,13 +35,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="walkthrough2.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- I was having trouble getting the characters left for a tweet to work, but I realized I forgot to add the implenetation in the gradle build.
+- Adding items to the layout for the new tweet was not working, so I had to delete the activity, and then make a new one.
 
 ## Open-source libraries used
 
